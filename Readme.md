@@ -11,7 +11,8 @@ Exemple from M1:
 6. Train Logistic Regression 
 7. Visualise confusion matrix
 8. Train Support Vector Machine SNM
-9. Direct Comparison
+9. Visualise confusion matrix
+10. Direct Comparison
 
 
 Exemple from M2:
