@@ -2,7 +2,14 @@
 
 ## Proposed dataset : 
 - https://www.kaggle.com/datasets/kshitizbhargava/deepfake-face-images/data
-  
+
+## Sources : 
+https://pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/ Some ImageNet models
+
+https://github.com/i3p9/deepfake-detection-with-xception/blob/main/train_dateset.py Write-up with xception
+
+https://ieeexplore.ieee.org/document/10363477 Paper about it
+
 ## Notebook structure
 
 Exemple from M1:
