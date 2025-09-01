@@ -35,3 +35,38 @@ Exemple from M2:
 7. Visualize What CNN Learned
 8. Per model Comparison
 
+# Project Folder Structure
+project_root/
+│
+├── notebooks/ # Jupyter notebooks (experiments, analysis, reports)
+│ ├── <your-name>/ # Each contributor’s personal notebooks
+│ │ ├── network_feature_extractor.ipynb
+│ │ └── ...
+│ ├── team_shared/ # Shared, polished notebooks
+│ │ └── final_report.ipynb
+│ └── README.md # Notebook usage & conventions
+│
+├── src/ # Reusable source code
+│ ├── data_processing.py
+│ ├── models/
+│ │ └── feature_extractor.py
+│ └── init.py
+│
+├── data/ # Data storage (ignored in Git if large)
+│ ├── raw/ # Original datasets
+│ ├── processed/ # Cleaned datasets
+│ └── README.md
+│
+├── results/ # Outputs from experiments
+│ ├── figures/
+│ ├── metrics/
+│ └── logs/
+│
+├── docs/ # Documentation and guides
+│ └── simple_notebook_git_workflow.md
+│
+├── requirements.txt # Python dependencies
+├── environment.yml # Conda environment (optional)
+├── .gitignore # Ignore rules
+└── README.md # Project overview
+
