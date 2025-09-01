@@ -36,6 +36,7 @@ Exemple from M2:
 8. Per model Comparison
 
 # Project Folder Structure
+```
 project_root/
 │
 ├── notebooks/ # Jupyter notebooks (experiments, analysis, reports)
@@ -69,4 +70,5 @@ project_root/
 ├── environment.yml # Conda environment (optional)
 ├── .gitignore # Ignore rules
 └── README.md # Project overview
+```
 
