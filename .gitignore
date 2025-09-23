@@ -1,4 +1,7 @@
 # Ignore specific file
 features/mobilenetv2_160_features.npz
-notebooks/kt_logs
+
+# Remvoe specific folder
+notebooks/kt_logs/
+
 
